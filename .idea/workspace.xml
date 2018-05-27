@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list id="efbd84fd-9509-4631-a605-2dc1e0a02033" name="Revert &quot;update fix1&quot;" comment="Revert &quot;update fix1&quot;&#10;&#10;This reverts commit c5b7bc3" />
     <list id="863fc584-25b4-4751-a8df-976b29a38427" name="add one line to Fix1 on helloWorld" comment="add one line to Fix1 on helloWorld&#10;&#10;(cherry picked from commit 0a08e29)">
       <changelist_data name="yzhao8" email="yzhao8@hotmail.com" date="1526165052000" />
     </list>
     <list default="true" id="91c5a05a-d2a2-4ebf-a620-18345eef92a2" name="Default" comment="add new method state() and tested reword">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/Checkout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/MockCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckoutHello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello/CheckOutHello" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello/CheckOutHello" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello/Fix1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/Fix1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/NewHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/NewHello.java" afterDir="false" />
     </list>
-    <list id="efbd84fd-9509-4631-a605-2dc1e0a02033" name="Revert &quot;update fix1&quot;" comment="Revert &quot;update fix1&quot;&#10;&#10;This reverts commit c5b7bc3" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

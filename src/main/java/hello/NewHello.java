@@ -6,7 +6,6 @@ public class NewHello {
         StringBuilder sb = new StringBuilder();
         sb.append(s);
         return sb.toString();
-        // try different command
     }
 
     public static void main(String[] args) {

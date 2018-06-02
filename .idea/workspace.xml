@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="efbd84fd-9509-4631-a605-2dc1e0a02033" name="Revert &quot;update fix1&quot;" comment="Revert &quot;update fix1&quot;&#10;&#10;This reverts commit c5b7bc3" />
-    <list id="863fc584-25b4-4751-a8df-976b29a38427" name="add one line to Fix1 on helloWorld" comment="add one line to Fix1 on helloWorld&#10;&#10;(cherry picked from commit 0a08e29)">
-      <changelist_data name="yzhao8" email="yzhao8@hotmail.com" date="1526165052000" />
-    </list>
-    <list default="true" id="91c5a05a-d2a2-4ebf-a620-18345eef92a2" name="Default" comment="add new method state() and tested reword">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/Checkout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/MockCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckoutHello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello/CheckOutHello" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello/CheckOutHello" afterDir="false" />
+    <list default="true" id="91c5a05a-d2a2-4ebf-a620-18345eef92a2" name="Default" comment="update comeFix1() after merge with testTest">
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello/Fix1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello/Fix1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/Fix1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello/NewHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/NewHello.java" afterDir="false" />
     </list>
+    <list id="863fc584-25b4-4751-a8df-976b29a38427" name="add one line to Fix1 on helloWorld" comment="add one line to Fix1 on helloWorld&#10;&#10;(cherry picked from commit 0a08e29)">
+      <changelist_data name="yzhao8" email="yzhao8@hotmail.com" date="1526165052000" />
+    </list>
+    <list id="efbd84fd-9509-4631-a605-2dc1e0a02033" name="Revert &quot;update fix1&quot;" comment="Revert &quot;update fix1&quot;&#10;&#10;This reverts commit c5b7bc3" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,45 +35,30 @@
       <file leaf-file-name="NewHello.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hello/NewHello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="154">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="286">
               <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".project" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.project">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWorld.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fix1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Fix1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="110">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <element signature="e#76#77#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,7 +102,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="6cec842b0210216827f8ae2ab77dbe6c18db841c" />
+        <entry key="$PROJECT_DIR$" value="c912daa607be7691fce852f9cdcb2729928c3145" />
       </map>
     </option>
     <option name="RESET_MODE" value="MIXED" />
@@ -131,12 +115,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/hello/Hello.java" />
         <option value="$PROJECT_DIR$/src/hello/NewHello.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hello/Fix1.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/hello/Fix1.java" />
         <option value="$PROJECT_DIR$/src/main/java/hello/Fix2.java" />
         <option value="$PROJECT_DIR$/src/main/java/hello/NewHello.java" />
         <option value="$PROJECT_DIR$/src/hello/CheckOutHello" />
+        <option value="$PROJECT_DIR$/src/main/java/hello/Fix1.java" />
       </list>
     </option>
   </component>
@@ -152,14 +136,15 @@
     <option name="width" value="1450" />
     <option name="height" value="917" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,16 +178,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hello" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -304,16 +284,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="HelloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -336,12 +306,24 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <list>
       <item itemvalue="Application.Fix2" />
       <item itemvalue="Application.Hello" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -448,8 +430,20 @@
       <option name="project" value="LOCAL" />
       <updated>1527436071695</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add new file Merge1 to master from master">
+      <created>1527955695414</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1527955695414</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Fix1Test - 2018.06.02 at 11h 34m 28s.xml">
+      <configuration name="Fix1Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,62 +455,82 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="313" y="45" width="1450" height="917" extended-state="0" />
+    <frame x="234" y="58" width="1450" height="917" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32866243" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32866243" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.17194244" side_tool="true" weight="0.4598726" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1733813" side_tool="true" weight="0.4598726" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.23381294" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.339895" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.8280575" visible="true" weight="0.4598726" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3388535" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.82661873" visible="true" weight="0.4598726" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32866243" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.26690647" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.28273383" />
       <window_info id="Structure" order="1" sideWeight="0.5023585" side_tool="true" weight="0.2705036" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.22420382" />
+      <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32939634" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.26690647" />
+      <window_info id="Structure" order="1" sideWeight="0.5023585" side_tool="true" weight="0.2705036" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32866243" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.8280575" visible="true" weight="0.4598726" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.339895" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.17194244" side_tool="true" weight="0.4598726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32939634" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32866243" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.23381294" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.22420382" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.339895" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" weight="0.26690647" />
       <window_info active="true" id="Structure" order="1" sideWeight="0.5023585" side_tool="true" visible="true" weight="0.2705036" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32866243" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.8280575" weight="0.4598726" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32866243" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.17194244" side_tool="true" visible="true" weight="0.4598726" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.8280575" weight="0.4598726" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32939634" />
       <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.23381294" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -604,7 +618,8 @@
     <MESSAGE value="add new method state()" />
     <MESSAGE value="add second line from local" />
     <MESSAGE value="add new method state() and tested reword" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new method state() and tested reword" />
+    <MESSAGE value="add new file Merge1 to master from master" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new file Merge1 to master from master" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -719,14 +734,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/out/production/HelloWorld/hello/Fix1.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix2" />
+    <entry file="file://$PROJECT_DIR$/src/hello/CheckOutHello" />
+    <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/TestGit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/NewHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hello/Fix1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="66">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="31" />
           <folding>
             <element signature="e#169#170#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hello/Fix2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -737,11 +831,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hello/CheckOutHello" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Hello.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        <state relative-caret-position="132">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -759,23 +856,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/NewHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="286">
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.project">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/NewHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/HelloWorld/hello/Fix1.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix2" />
+    <entry file="file://$PROJECT_DIR$/src/hello/CheckOutHello" />
     <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Merge1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/TestGit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/NewHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Fix1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

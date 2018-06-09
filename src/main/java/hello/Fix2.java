@@ -8,4 +8,9 @@ public class Fix2 {
     public static void main(String[] args) {
         comeFix2();
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }

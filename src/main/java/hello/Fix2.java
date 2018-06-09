@@ -12,6 +12,6 @@ public class Fix2 {
     // test merge and pull
     @Override
     public String toString() {
-        return super.toString();
+        return "Fix2";
     }
 }

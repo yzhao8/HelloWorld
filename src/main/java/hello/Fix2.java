@@ -8,4 +8,9 @@ public class Fix2 {
     public static void main(String[] args) {
         comeFix2();
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
 }

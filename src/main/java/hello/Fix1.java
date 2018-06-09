@@ -10,4 +10,6 @@ public class Fix1 {
     public void setFix(String f) {
         this.f = f;
     }
+    
+    // just add line for pull
 }

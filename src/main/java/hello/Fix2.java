@@ -16,6 +16,6 @@ public class Fix2 {
         if (f==null)
             return "Fix3 empty";
         else
-            return "full";
+            return "full??";
     }
 }

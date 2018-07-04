@@ -1,15 +1,11 @@
 package hello;
 
 public class Fix1 {
-    private String f = "Test";
-    // test merge
     protected static String comeFix1() {
-        return "come from fix1 but merge";
+        return "come from fix1";
     }
 
-    public void setFix(String f) {
-        this.f = f;
+    protected static String comeFix2() {
+        return "come from fix2";
     }
-    
-    // just add line for pull + 2nd updates 
 }
